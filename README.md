@@ -70,6 +70,6 @@ Evaluation metric: **Macro F1-score**
 Ended 3rd out of 40 on the private test set.
 
 ## Contributors
-[Adrien Saouma](https://github.com/saoumadr)
-[Matéo Mangialomini](https://github.com/mateo-496)
-Maxime Tran
+- [Adrien Saouma](https://github.com/saoumadr)
+- [Matéo Mangialomini](https://github.com/mateo-496)
+- Maxime Tran
